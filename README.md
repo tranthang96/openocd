@@ -1,0 +1,2 @@
+# openocd
+Learn openocd
